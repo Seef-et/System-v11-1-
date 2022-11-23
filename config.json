@@ -1,0 +1,7 @@
+{
+    "developerGuild": "832238273349812244",
+    "activityInterval": 5,
+    "botMainColor": "0xff5454",
+    "botErrorColor": "0xdb3535",
+    "database": "mongodb+srv://YassineHzz1:YassineHzz1@cluster0.dugrm.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+}
